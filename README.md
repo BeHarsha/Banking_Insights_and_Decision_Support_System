@@ -24,6 +24,7 @@ Project Structure
 Banking_Insights_and_Decision_Support_System/
 
 │── Banking.csv                  ← Raw dataset (38,576 records) |
+
 │── Banking.xlsx                 ← Cleaned dataset |
 │── Banking.ipynb                ← Data cleaning & preprocessing |
 │── EDA.ipynb                    ← Exploratory Data Analysis |
