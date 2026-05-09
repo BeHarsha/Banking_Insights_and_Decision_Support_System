@@ -26,13 +26,21 @@ Banking_Insights_and_Decision_Support_System/
 │── Banking.csv                  ← Raw dataset (38,576 records) |
 
 │── Banking.xlsx                 ← Cleaned dataset |
+
 │── Banking.ipynb                ← Data cleaning & preprocessing |
+
 │── EDA.ipynb                    ← Exploratory Data Analysis |
+
 │── Banking Dashboard.pbix       ← Power BI dashboard |
+
 │── Home.png                     ← Dashboard screenshot — Summary view |
+
 │── Deposit Analysis.png         ← Dashboard screenshot — Deposit analysis |
+
 │── Loan Analysis.png            ← Dashboard screenshot — Loan analysis |
+
 │── Drill Through.png            ← Dashboard screenshot — Drill-through view |
+
 │── README.md |
 
 
@@ -87,8 +95,11 @@ Tech Stack
 Tools & Purpose-
 
 Python - (Pandas, NumPy) - Data cleaning & preprocessing , (Matplotlib, Seaborn) - EDA visualizations |
+
 SQL (MySQL) - KPI queries & aggregations |
+
 Power BI + DAX - Interactive dashboards |
+
 Jupyter Notebook - Analysis environment |
 
 
