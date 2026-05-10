@@ -5,7 +5,6 @@ SQL · Power BI · Python · Data Modelling
 A comprehensive banking analytics project analyzing 38,576 loan applications worth $435.8M to surface portfolio risk, borrower trends, and financial KPIs for data-driven decision-making.
 
 
-
 Project Overview
 
 This project builds an end-to-end analytics pipeline on a real-world banking loan dataset — from raw data cleaning in Python to SQL-based KPI calculations to interactive Power BI dashboards — designed to give a bank's risk and operations team a single source of truth for portfolio health.
