@@ -2,7 +2,7 @@ Banking Insights and Decision Support System
 
 SQL · Power BI · Python · Data Modelling
 
-A comprehensive banking analytics project analyzing 38,576 loan applications worth $435.8M to surface portfolio risk, borrower trends, and financial KPIs for data-driven decision-making.
+A comprehensive banking analytics project analyzing 3,000 loan applications worth $435.8M to surface portfolio risk, borrower trends, and financial KPIs for data-driven decision-making.
 
 
 Business Problem
@@ -28,7 +28,7 @@ Project Structure
 
 Banking_Insights_and_Decision_Support_System/
 
-│── Banking.csv                  ← Raw dataset (38,576 records) |
+│── Banking.csv                  ← Raw dataset (3,000 records) |
 
 │── Banking.xlsx                 ← Cleaned dataset |
 
