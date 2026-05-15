@@ -111,7 +111,7 @@ Deposit Analysis
 ![Deposit Analysis](DepositAnalysis.png)
 
 Loan Analysis
-![Loan Analysis](Loan Analysis.png)
+![Loan Analysis](LoanAnalysis.png)
 
 Drill Through 
 ![Drill Through](DrillThrough.png)
