@@ -49,6 +49,23 @@ Banking_Insights_and_Decision_Support_System/
 │── README.md |
 
 
+Dataset Overview 
+
+Field - Description
+
+Source - Simulated banking CRM dataset |
+
+File Formats - Banking.csv |
+
+Records - 3,000 customers |
+
+Features - 25 columns |
+
+Missing Values - None (clean dataset) |
+
+Time Period - Multi-year |
+
+
 Dashboard Preview
 
 Summary View
@@ -67,7 +84,9 @@ Drill-Through View
 Sample SQL Queries Used
 
 sql
+
 -- Monthly loan application trend
+
 SELECT
     DATE_FORMAT(issue_date, '%Y-%m') AS month,
     COUNT(*) AS total_applications,
@@ -77,6 +96,7 @@ GROUP BY month
 ORDER BY month;
 
 -- Bad loan ratio by grade
+
 SELECT
     grade,
     COUNT(*) AS total_loans,
@@ -87,6 +107,7 @@ GROUP BY grade
 ORDER BY bad_loan_pct DESC;
 
 -- Average DTI by home ownership
+
 SELECT
     home_ownership,
     ROUND(AVG(dti), 2) AS avg_dti,
