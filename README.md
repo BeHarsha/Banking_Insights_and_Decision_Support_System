@@ -108,6 +108,12 @@ Power BI + DAX - Interactive dashboards |
 Jupyter Notebook - Analysis environment |
 
 
+Business Impact
+
+Enabled faster monitoring of loan portfolio health and lending performance.
+Helped simulate data-driven decision-making for credit risk assessment and operational reporting.
+
+
 How to Run
 
 # 1. Clone the repo
