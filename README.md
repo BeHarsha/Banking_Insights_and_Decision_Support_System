@@ -101,20 +101,20 @@ Avg Customer Age - 51 years |
 
 Dashboard Preview
 
-Home / Overview Page
+Home
 ![Home Dashboard](Home.png)
-
-Summary Page
-![Summary Dashboard](Summary.png)
-
-Deposit Analysis
-![Deposit Analysis](DepositAnalysis.png)
 
 Loan Analysis
 ![Loan Analysis](Loan%20Analysis.png)
 
+Deposit Analysis
+![Deposit Analysis](Deposit%20Analysis.png)
+
+Summary
+![Summary Dashboard](Summary.png)
+
 Drill Through 
-![Drill Through](DrillThrough.png)
+![Drill Through](Drill%20Through.png)
 
 
 Sample SQL Queries Used
