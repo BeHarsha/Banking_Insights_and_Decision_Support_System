@@ -66,6 +66,39 @@ Missing Values - None (clean dataset) |
 Time Period - Multi-year |
 
 
+Key Performance Indicators (KPIs)
+
+KPI - Value |
+
+Total Customers - 3,000 |
+
+Total Bank Deposits - $2.01 Billion |
+
+Total Bank Loans - $1.77 Billion |
+
+Loan-to-Deposit Ratio (LDR) - 0.88 |
+
+Avg Deposit per Customer - $671,560 |
+
+Avg Loan per Customer - $591,386 |
+
+Total Credit Card Balance - $9.53 Million |
+
+Total Business Lending - $2.60 Billion |
+
+Total Savings Accounts Balance - $698.7 Million |
+
+Total Checking Accounts Balance - $963.3 Million |
+
+Avg Estimated Income - $171,305 |
+
+Avg Properties Owned - 1.52 |
+
+High-Value Customers (Deposits > $500K) - 1,420 (47.3%) |
+
+Avg Customer Age - 51 years |
+
+
 Dashboard Preview
 
 Summary View
