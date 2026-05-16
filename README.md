@@ -41,6 +41,15 @@ This project builds an end-to-end analytics pipeline on a real-world banking loa
 - Loan grade, home ownership, and purpose are the strongest risk predictors
 
 
+## Installation & Setup
+
+To install all required dependencies, run the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## Project Structure
 
 │── Banking.csv                  ← Raw dataset (3,000 records) |
