@@ -1,3 +1,20 @@
+![Domain](https://img.shields.io/badge/Domain-Banking%20Analytics-darkblue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811)
+![Python](https://img.shields.io/badge/Python-Data%20Analytics-yellow)
+![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computation-013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0)
+![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-purple)
+![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-success)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Insights-brightgreen)
+![Business Intelligence](https://img.shields.io/badge/BI-Decision%20Support-blueviolet)
+![Visualization](https://img.shields.io/badge/Visualization-Reporting-critical)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)
+
 ## Banking Insights and Decision Support System
 
 SQL · Power BI · Python · Data Modelling
