@@ -1,4 +1,4 @@
-Banking Insights and Decision Support System
+## Banking Insights and Decision Support System
 
 SQL · Power BI · Python · Data Modelling
 
@@ -53,7 +53,7 @@ Banking_Insights_and_Decision_Support_System/
 
 ## Dataset Overview - Banking.csv
 
-# Field - Description
+### Field - Description
 
 Source - Simulated banking CRM dataset |
 
