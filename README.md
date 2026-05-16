@@ -5,17 +5,17 @@ SQL · Power BI · Python · Data Modelling
 A comprehensive banking analytics project analyzing 3,000 loan applications worth $435.8M to surface portfolio risk, borrower trends, and financial KPIs for data-driven decision-making.
 
 
-Business Problem
+## Business Problem
 
 A financial institution required a centralized analytics solution to monitor loan performance, identify risky lending patterns, and improve visibility into customer borrowing behaviour across multiple loan categories.
 
 
-Project Overview
+## Project Overview
 
 This project builds an end-to-end analytics pipeline on a real-world banking loan dataset — from raw data cleaning in Python to SQL-based KPI calculations to interactive Power BI dashboards — designed to give a bank's risk and operations team a single source of truth for portfolio health.
 
 
-Key Insights Uncovered
+## Key Insights Uncovered
 
 - $435.8M total funded vs $473.1M total received — healthy repayment spread
 - 13.8% bad loan ratio — isolating $64.9M in non-performing assets for risk mitigation
@@ -24,7 +24,7 @@ Key Insights Uncovered
 - Loan grade, home ownership, and purpose are the strongest risk predictors
 
 
-Project Structure
+## Project Structure
 
 Banking_Insights_and_Decision_Support_System/
 
@@ -51,9 +51,9 @@ Banking_Insights_and_Decision_Support_System/
 │── README.md |
 
 
-Dataset Overview - Banking.csv
+## Dataset Overview - Banking.csv
 
-Field - Description
+# Field - Description
 
 Source - Simulated banking CRM dataset |
 
@@ -68,7 +68,7 @@ Missing Values - None (clean dataset) |
 Time Period - Multi-year |
 
 
-Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 KPI - Value |
 
@@ -101,7 +101,7 @@ High-Value Customers (Deposits > $500K) - 1,420 (47.3%) |
 Avg Customer Age - 51 years |
 
 
-Dashboard Preview
+## Dashboard Preview
 
 Home
 ![Home Dashboard](Home.png)
@@ -119,7 +119,7 @@ Drill Through
 ![Drill Through](Drill%20Through.png)
 
 
-Sample SQL Queries Used
+## Sample SQL Queries Used
 
 sql
 
@@ -154,7 +154,7 @@ FROM banking
 GROUP BY home_ownership;
 
 
-Tech Stack
+## Tech Stack
 
 Tools & Purpose-
 
@@ -167,7 +167,7 @@ Power BI + DAX - Interactive dashboards |
 Jupyter Notebook - Analysis environment |
 
 
-Business Impact
+## Business Impact
 
 Enabled faster monitoring of loan portfolio health and lending performance. |
 
@@ -182,26 +182,26 @@ git clone https://github.com/BeHarsha/Banking_Insights_and_Decision_Support_Syst
 cd Banking_Insights_and_Decision_Support_System
 ```
 
-### 2. Install Python Dependencies
+2. Install Python Dependencies
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
 
-### 3. Run the Python Analysis
+3. Run the Python Analysis
 Launch Jupyter Notebook and open either `EDA.ipynb` or `Banking.ipynb` to explore the data and run the full analysis:
 ```bash
 EDA.ipynb
 ```
 
-### 4. Run the SQL Queries
+4. Run the SQL Queries
 Open `banking_sql_queries.sql` in your preferred SQL environment (MySQL Workbench, pgAdmin, DBeaver, or any compatible SQL client). 
 
 Import the dataset (`Banking.csv` or `Banking.xlsx`) into your database, then execute the queries to extract insights and perform data transformations.
 
-### 5. View the Power BI Dashboard
+5. View the Power BI Dashboard
 Open `Banking Dashboard.pbix` in Power BI Desktop to explore the interactive visualizations covering loan analysis, deposit trends, and key performance indicators.
 
-Author
+## Author
 
 Bethineedi Deva Harsha
 - [LinkedIn](https://www.linkedin.com/in/bethineedi-deva-harsha-3933aa2a9)
