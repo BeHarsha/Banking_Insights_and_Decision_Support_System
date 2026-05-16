@@ -177,23 +177,29 @@ Helped simulate data-driven decision-making for credit risk assessment and opera
 How to Run
 
 1. Clone the Repository
+   
 bash
 git clone https://github.com/BeHarsha/Banking_Insights_and_Decision_Support_System
 cd Banking_Insights_and_Decision_Support_System
 
 2. Install Python Dependencies
+   
 bash
 pip install pandas numpy matplotlib seaborn
 
 3. Run the Python Analysis
+   
 Launch Jupyter Notebook and open either EDA.ipynb or Banking.ipynb to explore the data and run the full analysis:
 bash
 jupyter notebook
 
 4. Run the SQL Queries
-Open banking_sql_queries.sql in your preferred SQL environment (MySQL Workbench, pgAdmin, DBeaver, or any compatible SQL client). Import the dataset (Banking.csv or Banking.xlsx) into your database, then execute the queries to extract insights and perform data transformations.
+   
+Open banking_sql_queries.sql in your preferred SQL environment (MySQL Workbench, pgAdmin, DBeaver, or any compatible SQL client).
+Import the dataset (Banking.csv or Banking.xlsx) into your database, then execute the queries to extract insights and perform data transformations.
 
 5. View the Power BI Dashboard
+    
 Open Banking Dashboard.pbix in Power BI Desktop to explore the interactive visualizations covering loan analysis, deposit trends, and key performance indicators.
 
 
