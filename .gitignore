@@ -1,0 +1,40 @@
+# ==========================================
+# Jupyter Notebook & Lab Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.virtual_documents/
+
+# ==========================================
+# Python Bytecode, Caches & Environments
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+venv/
+.venv/
+env/
+ENV/
+
+# ==========================================
+# Power BI / Microsoft Office Temp Files
+# (Prevents tracking hidden lock files while Power BI is actively open)
+# ==========================================
+~$*.pbix
+*.tmp
+~*
+
+# ==========================================
+# System Files (Mac/Windows background files)
+# ==========================================
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+
+# ==========================================
+# Environment Variables (Security Safety Net)
+# ==========================================
+.env
+.flaskenv
