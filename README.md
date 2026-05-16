@@ -176,7 +176,7 @@ Helped simulate data-driven decision-making for credit risk assessment and opera
 
 ## How to Run
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/BeHarsha/Banking_Insights_and_Decision_Support_System
 cd Banking_Insights_and_Decision_Support_System
