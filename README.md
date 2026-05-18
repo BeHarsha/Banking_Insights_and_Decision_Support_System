@@ -19,7 +19,7 @@
 
 SQL · Power BI · Python · Data Modelling
 
-A comprehensive banking analytics project analyzing 3,000 loan applications worth $435.8M to surface portfolio risk, borrower trends, and financial KPIs for data-driven decision-making.
+A comprehensive banking analytics project analyzing 2,940 loan applications worth $698.73M to surface portfolio risk, borrower trends, and financial KPIs for data-driven decision-making.
 
 
 ## Business Problem
@@ -34,7 +34,7 @@ This project builds an end-to-end analytics pipeline on a real-world banking loa
 
 ## Key Insights Uncovered
 
-- $435.8M total funded vs $473.1M total received — healthy repayment spread
+- 2,940 loan applications, monitoring a total funded volume of $698.73M — healthy payment spread
 - 13.8% bad loan ratio — isolating $64.9M in non-performing assets for risk mitigation
 - 6.9% MoM increase in loan application volume — portfolio growth signal
 - Average Debt-to-Income (DTI) ratio of 13.3% across all borrowers
@@ -83,7 +83,7 @@ Source - Simulated banking CRM dataset |
 
 File Formats - Banking.csv |
 
-Records - 3,000 customers |
+Records - 2,940 customers |
 
 Features - 25 columns |
 
@@ -96,33 +96,19 @@ Time Period - Multi-year |
 
 ### KPI - Value |
 
-Total Customers - 3,000 |
+Total Customers - 2,940 |
 
-Total Bank Deposits - $2.01 Billion |
+Total Bank Deposits - $3.77 Billion |
 
-Total Bank Loans - $1.77 Billion |
+Total Bank Loans - $4.38 Billion |
 
-Loan-to-Deposit Ratio (LDR) - 0.88 |
+Loan-to-Deposit Ratio (LDR) - 0.86 |
 
-Avg Deposit per Customer - $671,560 |
+Avg Deposit per Customer - $1,282,313 |
 
-Avg Loan per Customer - $591,386 |
+Avg Loan per Customer - $1,489,796 |
 
-Total Credit Card Balance - $9.53 Million |
-
-Total Business Lending - $2.60 Billion |
-
-Total Savings Accounts Balance - $698.7 Million |
-
-Total Checking Accounts Balance - $963.3 Million |
-
-Avg Estimated Income - $171,305 |
-
-Avg Properties Owned - 1.52 |
-
-High-Value Customers (Deposits > $500K) - 1,420 (47.3%) |
-
-Avg Customer Age - 51 years |
+Total Credit Card Balance - $4.39 Thousand |
 
 
 ## Dashboard Preview
